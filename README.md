@@ -1,5 +1,7 @@
 ### HTML &amp; CSS Oppgave 3: Planet Prosjekt
 
+**Mål**: Lag en one-page nettside med en av planetene i solsystemet som tema.
+
 Nettsiden skal ha en ganske enkel struktur: Header med en navbar som scroller til de forskjellige seksjonene. Minimum 2 seksjoner.  Forslag til seksjoner: Bildegalleri, Infoside, Faktaliste etc. Se layout mal nederst.
 Fokus skal være på design og layout, valg av fargetema, valg av bilder, valg av fonter.
 
@@ -21,9 +23,7 @@ Fokus skal være på design og layout, valg av fargetema, valg av bilder, valg a
 > /* Med denne får du en smooth scroll når du navigerer til section */
 > ```
 >
-* Planlegge design og layout i Figma. Figma skissen kan enten være kun wireframe og konsept, eller full skisse (Men husk å sette av god tid til å kode ut siden!)
-* Siden skal kodes med HTML og CSS. Det legges vekt på god bruk av semantisk og ryddig HTML og bruk av flex-box til layout i CSS (I CSS skal du være varsom med bruk av position absolute og absolutte verdier. Spør om du er usikker på hva som menes med dette.)
-* Siden trenger ikke å være responsiv (dvs den trenger ikke å optimaliseres for mobil)
-* Dere skal samarbeide om koding med å bruke 1 GitHub repository som begge pusher og puller kode til/fra  (en lager repository og gir den andre tilgang. Dette kan vi hjelpe med.) - skippa denne
+* Kodes med HTML og CSS. Det legges vekt på god bruk av semantisk og ryddig HTML og bruk av flex-box til layout i CSS.
+* Siden trenger ikke å være responsiv (dvs den trenger ikke å optimaliseres for mobil).
 * Husk å kommentere i koden.
-* Siden skal hostes på GitHub Pages (gratis hosting tjeneste, her er en quickstart guide: https://docs.github.com/en/pages/quickstartLinks to an external site.)
+* Siden skal hostes på GitHub Pages (gratis hosting tjeneste, her er en quickstart guide: https://docs.github.com/en/pages/quickstartLinks.
